@@ -13,6 +13,4 @@
 
 Impression:
 
-![art1][2]
-
-[2]:(https://github.com/Ryfthink/ImageBlur/blob/master/arts/snipper.jpg)
+![art1](https://github.com/Ryfthink/PathAnimation/blob/master/arts/output.gif)
