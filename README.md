@@ -4,12 +4,14 @@
 
 *** 
 
-**Support pre Android 5.0**
 
-**Support pre Android 2.3**
+**Guide [here][1]**
+
+**Support pre Android 5.0**
 
 Impression:
 
-![art1](https://github.com/Ryfthink/ImageBlur/blob/master/arts/snipper.jpg)
+![art1][2]
 
-Guide [here] (http://www.septenary.cn/pathanimation/)
+[1]:(http://www.septenary.cn/pathanimation/)
+[2]:(https://github.com/Ryfthink/ImageBlur/blob/master/arts/snipper.jpg)
